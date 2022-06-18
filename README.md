@@ -1,5 +1,4 @@
 ## 👋 Hey there
-<br />
 
 ### My name is Enamul Ali and I am a Full-stack Software Developer
 
