@@ -5,7 +5,7 @@
 📍 Based in Manchester, UK<br>
 🌱 I'm currently learning Javascript and Swift<br>
 📈 I enjoy combining psychology with code<br>
-🥅 2022 goals: To become a Northcoder!<br>
+🥅 2022 goals: To become a software developer!<br>
 🏊🏼‍♂️ I enjoy swimming and studying design.
 <br >
 <br>
