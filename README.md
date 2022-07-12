@@ -3,8 +3,9 @@
 ### My name is Enamul Ali and I am a Full-stack Software Developer
 
 📍 Based in Manchester, UK<br>
-🌱 I'm currently learning Javascript and Swift<br>
+🌱 I'm currently learning Javascript, React Native and Svelte<br>
 📈 I enjoy combining psychology with code<br>
+<br>
 🥅 2022 goals:
 - To complete the Northcoders bootcamp. 🏆<br>
 - To become a software developer!<br>
