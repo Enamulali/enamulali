@@ -8,7 +8,8 @@
 🥅 2022 goals:
 - To complete the Northcoders bootcamp. 🏆<br>
 - To become a software developer!<br>
-Outside work:
+<br>
+Outside work:<br>
 🏊🏼‍♂️ I enjoy swimming and studying design.
 <br >
 <br>
