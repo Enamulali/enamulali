@@ -8,8 +8,10 @@ Enthusiastic about full stack development<br>
 📈 I enjoy combining psychology with code<br>
 <br>
 🥅  2022 goals:
-- To complete the Northcoders bootcamp. 🏆<br>
-- To integrate into a junior software developer position!<br>
+- ✅ To complete the Northcoders bootcamp. <br>
+- ✅ To integrate into a junior software developer position! <br>
+- To create a personal portfolio <br>
+- To create, build and deploy my budgetting app <br>
 <br>
 Outside work:<br>
 🏊🏼‍♂️ I enjoy swimming and studying design.
