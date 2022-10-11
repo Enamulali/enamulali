@@ -1,4 +1,4 @@
-## 👋 Hey there
+## 👋 Hi there
 
 ### My name is Enamul Ali and I am a Junior Software Developer
 
