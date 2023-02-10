@@ -7,11 +7,10 @@ Enthusiastic about full stack development<br>
 🛤 I'm currently learning React Native with Cloud Firestore<br>
 📈 I enjoy combining psychology with code<br>
 <br>
-🥅  2022 goals:
-- ✅ To complete the Northcoders bootcamp. <br>
-- ✅ To integrate into a junior software developer position! <br>
+🥅  2023 goals:
 - To create a personal portfolio <br>
 - To create, build and deploy my budgetting app <br>
+- AWS 🚀 <br>
 <br>
 Outside work:<br>
 🏊🏼‍♂️ I enjoy swimming and studying design.
