@@ -1,11 +1,11 @@
 ## 👋 Hi there
 
-### My name is Enamul Ali and I am a Junior Software Developer
+### My name is Enamul Ali and I am a Software Engineer
 
 Enthusiastic about full stack development<br>
 📍 Based in Manchester, UK<br>
-🛤 I'm currently learning React Native with Cloud Firestore<br>
-📈 I enjoy combining psychology with code<br>
+🛤 I'm currently working in Custom Cloud Applications<br>
+📈 I enjoy coding <br>
 <br>
 🥅  2023 goals:
 - To create a personal portfolio <br>
